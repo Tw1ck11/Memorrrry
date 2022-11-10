@@ -1,0 +1,8 @@
+﻿  Memory.cpp
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\Создание пользовательских приложений с использование С++\Основы С++\Командный проект\Memory\Memory.cpp(204,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\Создание пользовательских приложений с использование С++\Основы С++\Командный проект\Memory\Memory.cpp(425,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\Создание пользовательских приложений с использование С++\Основы С++\Командный проект\Memory\Memory.cpp(745,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\Создание пользовательских приложений с использование С++\Основы С++\Командный проект\Memory\Memory.cpp(1032,10): warning C4101: 'ch': unreferenced local variable
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\Создание пользовательских приложений с использование С++\Основы С++\Командный проект\Memory\Memory.cpp(1074,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\Создание пользовательских приложений с использование С++\Основы С++\Командный проект\Memory\Memory.cpp(1180,27): warning C4018: '<': signed/unsigned mismatch
+  Memory.vcxproj -> C:\Users\kuqep\OneDrive\Рабочий стол\Step\Создание пользовательских приложений с использование С++\Основы С++\Командный проект\Memory\x64\Debug\Memory.exe

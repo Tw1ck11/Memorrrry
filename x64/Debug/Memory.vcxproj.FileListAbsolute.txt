@@ -1,0 +1,2 @@
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\Командный проект\Memory\x64\Debug\Memory.exe
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\Создание пользовательских приложений с использование С++\Основы С++\Командный проект\Memory\x64\Debug\Memory.exe
